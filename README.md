@@ -6,7 +6,8 @@ App publishers want to know what users think and feel about their apps. While we
 
 In this project, you will use clustering and NLP techniques to sort text data from negative reviews in the Google Play Store into categories.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/35998a4b-27c1-4fbe-afec-1025df7e734b)
+
 
 
 As a Data Scientist working for a mobile app company, you usually find yourself applying product analytics to better understand user behavior, uncover patterns, and reveal insights to identify the great and not-so-great features. Recently, the number of negative reviews has increased on Google Play, and as a consequence, the app's rating has been decreasing. The team has requested you to analyze the situation and make sense of the negative reviews.
